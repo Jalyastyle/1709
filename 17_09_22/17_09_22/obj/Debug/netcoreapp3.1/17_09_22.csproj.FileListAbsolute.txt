@@ -1,0 +1,14 @@
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\bin\Debug\netcoreapp3.1\17_09_22.exe
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\bin\Debug\netcoreapp3.1\17_09_22.deps.json
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\bin\Debug\netcoreapp3.1\17_09_22.runtimeconfig.json
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\bin\Debug\netcoreapp3.1\17_09_22.runtimeconfig.dev.json
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\bin\Debug\netcoreapp3.1\17_09_22.dll
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\bin\Debug\netcoreapp3.1\17_09_22.pdb
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\obj\Debug\netcoreapp3.1\17_09_22.csproj.AssemblyReference.cache
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\obj\Debug\netcoreapp3.1\17_09_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\obj\Debug\netcoreapp3.1\17_09_22.AssemblyInfoInputs.cache
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\obj\Debug\netcoreapp3.1\17_09_22.AssemblyInfo.cs
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\obj\Debug\netcoreapp3.1\17_09_22.csproj.CoreCompileInputs.cache
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\obj\Debug\netcoreapp3.1\17_09_22.dll
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\obj\Debug\netcoreapp3.1\17_09_22.pdb
+C:\Users\Jalaag\Desktop\tasks\17_09_22\17_09_22\obj\Debug\netcoreapp3.1\17_09_22.genruntimeconfig.cache
